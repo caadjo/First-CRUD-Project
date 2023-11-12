@@ -1,0 +1,7 @@
+repository\IDao.class
+livro\Livro.class
+repository\Dao.class
+br\edu\ifnmg\crud\CRUD.class
+livro\LivroDao.class
+repository\DbConnection.class
+entity\Entity.class
